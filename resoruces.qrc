@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/icons8-search-50.png</file>
+    <file>icons/icons8-menu-50.png</file>
+    <file>icons/insurance (1).png</file>
+    <file>icons/insurance.png</file>
+    <file>icons/user (1).png</file>
+    <file>icons/user.png</file>
+    <file>icons/notification (1).png</file>
+    <file>icons/notification.png</file>
+    <file>icons/logout (1).png</file>
+    <file>icons/logout.png</file>
+    <file>icons/report (1).png</file>
+    <file>icons/report.png</file>
+    <file>icons/38439452-9882-4db8-9abd-97a82dba0fd8.png</file>
+    <file>icons/agulogooo.jpg</file>
+    <file>icons/book.png</file>
+    <file>icons/dashboard (1).png</file>
+    <file>icons/dashboard.png</file>
+    <file>icons/info.png</file>
+    <file>icons/information-button.png</file>
+    <file>icons/logo000.jpg</file>
+    <file>icons/open-book.png</file>
+    <file>icons/settings (1).png</file>
+    <file>icons/settings.png</file>
+    <file>icons/trend (1).png</file>
+    <file>icons/trend.png</file>
+  </qresource>
+</RCC>

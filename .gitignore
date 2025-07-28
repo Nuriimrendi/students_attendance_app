@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtualenvs
+venv/
+.venv/
+
+# Qt build artifacts
+*_rc.py
+*.qrc~
+*.ui~
+
+# IDE swap files
+*.swp
+*~
+
+# Environment
+.env
+
